@@ -1,0 +1,9 @@
+[package]
+org = "hansaninissanka"
+name = "stage"
+version = "0.1.0"
+distribution = "2201.14.0"
+title = "stage"
+
+[build-options]
+sticky = true
