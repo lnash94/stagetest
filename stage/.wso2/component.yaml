@@ -1,0 +1,5 @@
+schemaVersion: '1.2'
+dependencies:
+  connectionReferences:
+    - name: nov19_knowledge_base
+      resourceRef: service:ai-services/nov19/knowledge-base
